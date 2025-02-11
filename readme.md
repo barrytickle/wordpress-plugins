@@ -20,7 +20,7 @@ This repository contains a curated set of essential plugins to streamline WordPr
 
 1. Clone this repository into your WordPress plugin directory:
    ```sh
-   git clone https://github.com/your-username/wordpress-plugin-starter.git wp-content/plugins/
+   git clone git@github.com:barrytickle/wordpress-plugins.git
    ```
 2. Navigate to the WordPress admin panel.
 3. Activate the required plugins under **Plugins > Installed Plugins**.
@@ -47,6 +47,6 @@ Feel free to submit pull requests for improvements or additional functionality.
 This repository contains third-party plugins that require valid licenses. Ensure you have the proper licensing for ACF Pro, Wicked Folders Pro, and other premium plugins.
 
 ---
-Maintained by [Your Name](https://yourwebsite.com)
+Maintained by [Barry Tickle](https://barrytickle.com)
 
 
